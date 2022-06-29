@@ -4,6 +4,6 @@ title: Education
 parent: Applications of Citizen Science
 ---
 
-#Education
+# Education
 
 Coming soon
