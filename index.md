@@ -29,7 +29,7 @@ Citizen science includes, but is not limited to, the following:
 * Collecting field data in local areas and communities to be used in ecological research.
 
 ## About the Primer
-This primer will provide an overview of citizen science occurring in places around the world and feature interviews with citizen scientists and citizen science project leaders. Citizen science means different things to different people, and it takes different forms in different places. The overall piece is aimed toward 1) providing *information* about what citizen science is and ways in which it is practiced, and 2) capturing (at least some part of) the spirit of citizen science and its significance.
+This primer will provide an overview of citizen science occurring in places around the world and feature interviews with citizen scientists and citizen science project leaders. Citizen science means different things to different people, and it takes different forms in different places. The overall piece is aimed toward 1) providing *information* about what citizen science is and ways in which it is practiced, and 2) capturing (at least some part of) the *spirit* of citizen science and its significance.
 
 ### Structure of the Primer
 
