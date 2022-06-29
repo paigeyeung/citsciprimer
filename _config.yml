@@ -8,6 +8,7 @@ github_username: paigeyeung
 
 # Build settings
 theme: "just-the-docs" 
+color_scheme: custom
 plugins:
   - jekyll-feed
 
