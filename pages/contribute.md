@@ -1,11 +1,11 @@
 ---
-nav_exclude: true
+nav_exclude: false
 layout: page
 title: Contribute
 permalink: /contribute/
-nav_order: 100
+nav_order: 1000
 ---
 
 # Contribute
 
-Feel free to make a pull request [here](https://github.com/paigeyeung/citsciprimer) or send an email to [pcy@mit.edu](mailto:pcy@mit.edu).
+If you have any corrections to make or any additional sources or insights, your contributions would be greatly appreciated; feel free to send an email to [pcy@mit.edu](mailto:pcy@mit.edu).
