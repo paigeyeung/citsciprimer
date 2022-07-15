@@ -16,6 +16,12 @@ The [Institute for Student Astronomical Research (InStAR](https://www.in4star.or
 
 Citizen science can also help address the widespread lack of environmental education in places across the world. For instance, students can participate in monitoring research in their local communities to track environmental impacts while learning about the scientific context for their work.
 
+## What Tools Are Available?
+
+Some tools, like [Foldscope](https://foldscope.com/), are accessible tools for students to initiate scientific investigations.
+Existing datasets are available online through sources like [Google Earth Engine](https://earthengine.google.com/).
+There are also online research communities like [Exoplanet Watch](https://exoplanets.nasa.gov/exoplanet-watch/) that support amateur researchers in their scientific pursuits.
+
 ---
 
 [^1]: *Institute for Student Astronomical Research*, [https://www.in4star.org/](https://www.in4star.org/).
